@@ -8,7 +8,7 @@ pyjokes Twitter bot [@pyjokes_bot](https://twitter.com/pyjokes_bot)
 - pyjokes
 
 ```bash
-sudo pip install twython pyjokes
+sudo pip3 install twython pyjokes
 ```
 
 ## Usage
